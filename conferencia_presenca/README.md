@@ -1,5 +1,7 @@
 # Como Rodar
-- Criar o arquivo `repos.txt` nessa pasta, contendo em cada linha o nome e a URL do repositório da aluna no formato `Rafaela Kreusch | https://github.com/rafack/presenca-digacademy-rafa`
+- Criar o arquivo `repos.txt` nessa pasta, contendo em cada linha o nome e a URL do repositório da aluna no formato
+
+`Rafaela Kreusch | https://github.com/rafack/presenca-digacademy-rafa`
 - Criar um token do GitHub
 - Executar o script de sua preferência:
 
