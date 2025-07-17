@@ -5,9 +5,13 @@
 - Criar um token do GitHub
 - Executar o script de sua preferência:
 
+**GO:**
+
 ```shell
 GITHUB_TOKEN=ghp_xxxSeuTokenAqui AULA=1 go run presenca.go
 ```
+
+**JS:**
 
 ```shell
 GITHUB_TOKEN=seu_token AULA=1 node presenca.js
